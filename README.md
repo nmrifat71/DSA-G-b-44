@@ -92,7 +92,7 @@ This repository will be updated regularly as new lectures, lab tasks, and assign
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Rifat Mahmud**
 
