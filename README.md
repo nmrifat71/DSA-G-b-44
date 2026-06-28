@@ -1,101 +1,104 @@
 # DSA-G-b-44
 📘 Data Structures
 
-«A repository containing classwork, lab exercises, assignments, and practice programs for the Data Structures course at Sylhet Engineering College.»
+# 📘 Data Structures
+
+> A collection of classwork, lab exercises, assignments, and practice programs for the **Data Structures** course at **Sylhet Engineering College**.
 
 ---
 
-📚 Course Information
+## 📚 Course Information
 
-Item| Details
-Institution| Sylhet Engineering College
-Department| Computer Science & Engineering (CSE)
-Course Code| CSE 0613 1238
-Course Title| Data Structures
-Semester| 1st Year, 2nd Semester
-Group| B
-Roll| 44
+🏫 **Institution:** Sylhet Engineering College
 
----
+🎓 **Department:** Computer Science & Engineering (CSE)
 
-📖 About
+📖 **Course Title:** Data Structures
 
-This repository is dedicated to the Data Structures course and serves as a structured collection of classwork, laboratory exercises, assignments, and programming practice. It is maintained to document my learning journey throughout the semester and to keep all course-related materials organized in one place.
+🆔 **Course Code:** CSE 0613 1238
 
-The repository may also be useful as a reference for fellow students studying similar topics.
+📅 **Semester:** 1st Year, 2nd Semester
+
+👥 **Group:** B
+
+🎯 **Roll:** 44
 
 ---
 
-💻 Programming Languages
+## 📖 About
+
+This repository contains all the source codes, lab exercises, assignments, and programming practices completed throughout the **Data Structures** course. It is maintained to organize course materials, track academic progress, and build a strong foundation in Data Structures using **C** and **C++**.
+
+The repository is continuously updated as new topics are covered during the semester and may also serve as a helpful reference for fellow students.
+
+---
+
+## 💻 Programming Languages
 
 - C
 - C++
 
 ---
 
-📂 Repository Contents
+## 📂 Repository Contents
 
 - 📘 Class Codes
 - 🧪 Lab Exercises
 - 📝 Assignments
-- 💡 Practice Problems
+- 💡 Practice Programs
 - 🔄 Data Structure Implementations
-
-«New programs and solutions will be added regularly as the course progresses.»
 
 ---
 
-🚀 Getting Started
+## 🚀 Getting Started
 
 Clone the repository:
 
+```bash
 git clone https://github.com/nmrifat71/DSA-G-b-44.git
+```
 
-Compile and run any C or C++ source file using your preferred compiler or IDE.
+Open the project using your preferred IDE or code editor and compile any C/C++ source file.
 
-Example (C)
+### Compile C Program
 
+```bash
 gcc filename.c -o output
 ./output
+```
 
-Example (C++)
+### Compile C++ Program
 
+```bash
 g++ filename.cpp -o output
 ./output
+```
 
 ---
 
-🎯 Purpose
+## 🎯 Objectives
 
-The primary objectives of this repository are:
-
-- Organize all course-related source codes.
-- Track learning progress throughout the semester.
-- Preserve lab work and assignments.
+- Organize all Data Structures course materials.
+- Store class and laboratory programs.
+- Improve problem-solving and programming skills.
+- Keep track of learning progress throughout the semester.
 - Build a strong foundation in Data Structures.
-- Provide a reference for revision and future learning.
 
 ---
 
-🤝 Contribution
+## 📌 Note
 
-This repository is maintained for educational purposes. Students are welcome to explore the code and use it as a learning reference.
+This repository will be updated regularly as new lectures, lab tasks, and assignments are completed.
 
 ---
 
-👨‍💻 Author
+## 👨‍💻 Author
 
-Rifat Mahmud
+**Rifat Mahmud**
 
-Computer Science & Engineering (CSE)
+Computer Science & Engineering (CSE)  
 Sylhet Engineering College
 
 ---
 
-📄 License
-
-This repository is intended for educational use only.
-
----
-
-⭐ If you find this repository helpful, consider giving it a star.
+⭐ **If you find this repository useful, don't forget to give it a star!**
