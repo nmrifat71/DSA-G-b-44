@@ -13,7 +13,7 @@ int main()
             for (i = 0; i < n ; i++)
             sum += a[i];
 
-        printf(" The average is: %.2f",(float) sum / n);
+        printf("The average is: %.2f",(float) sum / n);
             free(a);
 
 return 0;
